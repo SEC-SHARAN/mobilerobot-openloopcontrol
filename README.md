@@ -1,7 +1,7 @@
 # MobileRobot-Openloopcontrol
-# NAME: SANKAR S
+# NAME: SHARAN S
 # DEPT: B.E/CSE
-# REG NO: 212224040291
+# REG NO: 212224040309
 ## Aim:
 
 To develop a python control code to move the mobilerobot along the predefined path.
